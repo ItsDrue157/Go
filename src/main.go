@@ -2,10 +2,9 @@ package main
 
 import "fmt"
 
-func main(){
+func main() {
 	var nome string = "Douglas"
-	var versao float32 = 1.18
+	var idade int = 31
 
-	fmt.Println("Carlos")
-	fmt.Println("Olá", nome, "este programa está na versão", versao)
+	fmt.Println("Seja Bem-Vindo: ", nome, "Sua idade eh de: ", idade,"Anos.")
 }
