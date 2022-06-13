@@ -45,3 +45,5 @@ func exibeMenu() {
 	fmt.Println("0- sair do programa")
 
 }
+
+// oi
